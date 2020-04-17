@@ -1,10 +1,7 @@
-# 11 line face recognition
-Face Recognition in just 11 lines of code.
+ line face recognition
+Face Recognition in just 10 lines of code.
 
 Using OpenCV 
-
-Full tutorial on:
-https://itsaihub.com/?p=2423
 
 
 # HOW TO RUN ::
